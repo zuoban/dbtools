@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.zuoban.dbtools.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.zuoban.dbtools.MyBundle
 
 class MyApplicationService {
 

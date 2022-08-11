@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.zuoban.dbtools.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.zuoban.dbtools.MyBundle
 
 class MyProjectService(project: Project) {
 
